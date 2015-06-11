@@ -1,2 +1,2 @@
-echo SOMETHIN COOLER~! :-)
+echo SOMETHIN COOLER
 exit 0
