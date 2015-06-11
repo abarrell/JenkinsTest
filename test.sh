@@ -1,2 +1,2 @@
-echo Hello World
+echo SOMETHIN COOL
 exit 1
