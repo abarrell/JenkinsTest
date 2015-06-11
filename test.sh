@@ -1,2 +1,2 @@
-echo SOMETHIN COOLER
+echo chris
 exit 0
